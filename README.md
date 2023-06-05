@@ -1,4 +1,4 @@
-# Youtube-Clone 
+# Youtube/Clone 
 A repository for my YouTube/Clone
  (This is responsive by  0 by 770px to 1000px)
   
